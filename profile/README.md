@@ -10,27 +10,28 @@ Burma Project Ideas helps junior developers from Myanmar build their first proje
 
 ## Projects
 
-Ordered by repository creation date, newest first. Dates come from GitHub's `created_at` field in UTC and are not confirmed project kickoff dates. Snapshot: 2026-11-04. The `.github` organization-profile repository is excluded.
+Ordered by repository creation date, newest first. Dates come from GitHub's `created_at` field in UTC and are not confirmed project kickoff dates. Snapshot: 2026-11-04. Contributors are GitHub accounts credited with commits, listed in contribution order. The `.github` organization-profile repository and backup repositories are excluded.
 
-| Project | Created&nbsp;date | Repository |
-| --- | :---: | --- |
-| Office Zoo | <code>2026&#8209;11&#8209;04</code> | [office-zoo](https://github.com/burma-project-ideas/office-zoo) |
-| Burma Calendar | <code>2026&#8209;09&#8209;01</code> | [burma-calendar](https://github.com/burma-project-ideas/burma-calendar) |
-| PhayarSar | <code>2024&#8209;06&#8209;09</code> | [phayar-sar](https://github.com/burma-project-ideas/phayar-sar) |
-| Banking Management System | <code>2024&#8209;03&#8209;15</code> | [banking-management-system](https://github.com/burma-project-ideas/banking-management-system) |
-| Burmese Agriculture | <code>2024&#8209;01&#8209;14</code> | [burmese-agriculture](https://github.com/burma-project-ideas/burmese-agriculture) |
-| Burmese Recipes | <code>2024&#8209;01&#8209;11</code> | [burmese-recipes](https://github.com/burma-project-ideas/burmese-recipes) |
-| Quotlets | <code>2024&#8209;01&#8209;06</code> | [quotlets](https://github.com/burma-project-ideas/quotlets) |
-| Missing Historical Records | <code>2023&#8209;12&#8209;23</code> | [missing-historical-records](https://github.com/burma-project-ideas/missing-historical-records) |
-| Incompatible Food | <code>2023&#8209;12&#8209;12</code> | [incompatible-food](https://github.com/burma-project-ideas/incompatible-food) |
-| Art Gallery | <code>2023&#8209;12&#8209;06</code> | [art-gallery](https://github.com/burma-project-ideas/art-gallery) |
-| Snakes | <code>2023&#8209;12&#8209;01</code> | [snakes](https://github.com/burma-project-ideas/snakes) |
-| Myanmar Months | <code>2023&#8209;11&#8209;25</code> | [myanmar-months](https://github.com/burma-project-ideas/myanmar-months) |
-| Birds | <code>2023&#8209;11&#8209;24</code> | [birds](https://github.com/burma-project-ideas/birds) |
-| Bagan Map | <code>2023&#8209;11&#8209;21</code> | [bagan-map](https://github.com/burma-project-ideas/bagan-map) |
-| Myanmar Proverbs | <code>2023&#8209;10&#8209;16</code> | [myanmar-proverbs](https://github.com/burma-project-ideas/myanmar-proverbs) |
-| Zodiac | <code>2023&#8209;10&#8209;15</code> | [zodiac](https://github.com/burma-project-ideas/zodiac) |
-| Pick A Pile | <code>2023&#8209;10&#8209;12</code> | [pick-a-pile](https://github.com/burma-project-ideas/pick-a-pile) |
-| Movie Ticket Online Booking System | <code>2023&#8209;10&#8209;07</code> | [movie-ticket-online-booking-system](https://github.com/burma-project-ideas/movie-ticket-online-booking-system) |
-| Dream Dictionary | <code>2023&#8209;10&#8209;07</code> | [dream-dictionary](https://github.com/burma-project-ideas/dream-dictionary) |
-| Min Thein Kha - Lat Htauk Bay Din | <code>2023&#8209;10&#8209;05</code> | [min-thein-kha-lat-htauk-bay-din](https://github.com/burma-project-ideas/min-thein-kha-lat-htauk-bay-din) |
+| Project | Created&nbsp;date | Repository | Contributors |
+| --- | :---: | --- | --- |
+| Office Zoo | <code>2026&#8209;11&#8209;04</code> | [office-zoo](https://github.com/burma-project-ideas/office-zoo) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) |
+| Burma Calendar | <code>2026&#8209;09&#8209;01</code> | [burma-calendar](https://github.com/burma-project-ideas/burma-calendar) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) |
+| Mantra Calendar | <code>2025&#8209;08&#8209;21</code> | [mantra-calendar](https://github.com/burma-project-ideas/mantra-calendar) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding), [@myatphonethant-dev](https://github.com/myatphonethant-dev) |
+| PhayarSar | <code>2024&#8209;06&#8209;09</code> | [phayar-sar](https://github.com/burma-project-ideas/phayar-sar) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) |
+| Banking Management System | <code>2024&#8209;03&#8209;15</code> | [banking-management-system](https://github.com/burma-project-ideas/banking-management-system) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) |
+| Burmese Agriculture | <code>2024&#8209;01&#8209;14</code> | [burmese-agriculture](https://github.com/burma-project-ideas/burmese-agriculture) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding), [@zinlynhtet](https://github.com/zinlynhtet) |
+| Burmese Recipes | <code>2024&#8209;01&#8209;11</code> | [burmese-recipes](https://github.com/burma-project-ideas/burmese-recipes) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding), [@zinlynhtet](https://github.com/zinlynhtet), [@mgchit-coding](https://github.com/mgchit-coding) |
+| Quotlets | <code>2024&#8209;01&#8209;06</code> | [quotlets](https://github.com/burma-project-ideas/quotlets) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) |
+| Missing Historical Records | <code>2023&#8209;12&#8209;23</code> | [missing-historical-records](https://github.com/burma-project-ideas/missing-historical-records) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding), [@zinlynhtet](https://github.com/zinlynhtet) |
+| Incompatible Food | <code>2023&#8209;12&#8209;12</code> | [incompatible-food](https://github.com/burma-project-ideas/incompatible-food) | [@myatphonethant-dev](https://github.com/myatphonethant-dev), [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) |
+| Art Gallery | <code>2023&#8209;12&#8209;06</code> | [art-gallery](https://github.com/burma-project-ideas/art-gallery) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) |
+| Snakes | <code>2023&#8209;12&#8209;01</code> | [snakes](https://github.com/burma-project-ideas/snakes) | [@mgchit-coding](https://github.com/mgchit-coding), [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding), [@myatphonethant-dev](https://github.com/myatphonethant-dev), [@phyuphyuthin-coding](https://github.com/phyuphyuthin-coding) |
+| Myanmar Months | <code>2023&#8209;11&#8209;25</code> | [myanmar-months](https://github.com/burma-project-ideas/myanmar-months) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding), [@phyuphyuthin-coding](https://github.com/phyuphyuthin-coding), [@myatphonethant-dev](https://github.com/myatphonethant-dev) |
+| Birds | <code>2023&#8209;11&#8209;24</code> | [birds](https://github.com/burma-project-ideas/birds) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding), [@myatphonethant-dev](https://github.com/myatphonethant-dev) |
+| Bagan Map | <code>2023&#8209;11&#8209;21</code> | [bagan-map](https://github.com/burma-project-ideas/bagan-map) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding), [@myatphonethant-dev](https://github.com/myatphonethant-dev) |
+| Myanmar Proverbs | <code>2023&#8209;10&#8209;16</code> | [myanmar-proverbs](https://github.com/burma-project-ideas/myanmar-proverbs) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding), [@naykhantkyaw-coding](https://github.com/naykhantkyaw-coding), [@phyuphyuthin-coding](https://github.com/phyuphyuthin-coding), [@myatphonethant-dev](https://github.com/myatphonethant-dev) |
+| Zodiac | <code>2023&#8209;10&#8209;15</code> | [zodiac](https://github.com/burma-project-ideas/zodiac) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding), [@OatSoeK](https://github.com/OatSoeK), [@myatphonethant-dev](https://github.com/myatphonethant-dev), [@naykhantkyaw-coding](https://github.com/naykhantkyaw-coding), [@phyuphyuthin-coding](https://github.com/phyuphyuthin-coding), [@mgchit-coding](https://github.com/mgchit-coding) |
+| Pick A Pile | <code>2023&#8209;10&#8209;12</code> | [pick-a-pile](https://github.com/burma-project-ideas/pick-a-pile) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding), [@OatSoeK](https://github.com/OatSoeK) |
+| Movie Ticket Online Booking System | <code>2023&#8209;10&#8209;07</code> | [movie-ticket-online-booking-system](https://github.com/burma-project-ideas/movie-ticket-online-booking-system) | [@mgchit-coding](https://github.com/mgchit-coding), [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding), [@OatSoeK](https://github.com/OatSoeK), [@phyuphyuthin-coding](https://github.com/phyuphyuthin-coding) |
+| Dream Dictionary | <code>2023&#8209;10&#8209;07</code> | [dream-dictionary](https://github.com/burma-project-ideas/dream-dictionary) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding), [@OatSoeK](https://github.com/OatSoeK) |
+| Min Thein Kha - Lat Htauk Bay Din | <code>2023&#8209;10&#8209;05</code> | [min-thein-kha-lat-htauk-bay-din](https://github.com/burma-project-ideas/min-thein-kha-lat-htauk-bay-din) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding), [@OatSoeK](https://github.com/OatSoeK) |
