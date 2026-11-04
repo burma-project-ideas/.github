@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/burma-project-ideas/.github/main/assets/logo.png" width="180" alt="Burma Project Ideas logo: a gold and brown B with coding brackets and a Burmese pagoda silhouette" />
+  <img src="https://raw.githubusercontent.com/burma-project-ideas/.github/main/assets/logo.png" width="180" alt="Burma Project Ideas logo: a coral-orange and peach B with coding brackets and a Burmese pagoda silhouette" />
 </p>
 
 # Burma Project Ideas
