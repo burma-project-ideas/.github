@@ -54,6 +54,8 @@ App: [Sann Lynn Htun](https://github.com/sannlynnhtun-coding). UI: adapted from 
 
 ## Word List
 
+<p><a href="https://blazor-word-list.vercel.app/"><img src="https://raw.githubusercontent.com/burma-project-ideas/word-list/HEAD/BlazorWordList/wwwroot/logo.svg" width="72" height="72" alt="Word List logo" /></a></p>
+
 [Open the dictionary](https://blazor-word-list.vercel.app/) · [Open the spell checker](https://blazor-word-list.vercel.app/spell-check) · [Read the workflow and setup guide](https://github.com/burma-project-ideas/word-list#readme)
 
 မြန်မာစကားလုံးတွေကို အစစာလုံးအလိုက် ရှာဖွေနိုင်ပြီး စာလုံးပေါင်းစစ်ခြင်း၊ အကြံပြုစကားလုံးရွေးခြင်းနဲ့ စာသားကို `.txt` အဖြစ် သိမ်းခြင်းတို့ လုပ်နိုင်ပါတယ်။ Mobile Layout၊ Light/Dark Theme နဲ့ Keyboard အသုံးပြုမှုကိုလည်း ပံ့ပိုးထားပါတယ်။ စာလုံးပေါင်းစစ်ခြင်းကို Browser ထဲမှာပဲ လုပ်ဆောင်ပါတယ်။
@@ -61,6 +63,8 @@ App: [Sann Lynn Htun](https://github.com/sannlynnhtun-coding). UI: adapted from 
 Wordlist data: [Kanaung Wordlists and its contributors](https://github.com/kanaung/wordlists). App: [Sann Lynn Htun](https://github.com/sannlynnhtun-coding). The Blazor interface adapts [Prestige UI](https://prestigeui.com/) components; [credits and licenses](https://github.com/burma-project-ideas/word-list/blob/master/THIRD_PARTY_NOTICES.md) are included in the project.
 
 ## Adhihtan
+
+<p><a href="https://adhihtan.vercel.app/"><img src="https://raw.githubusercontent.com/burma-project-ideas/adhihtan/main/Adhihtan/wwwroot/assets/images/logo-orange.png" width="72" height="72" alt="Adhihtan orange Buddha logo" /></a></p>
 
 [Open the app](https://adhihtan.vercel.app/) · [Workflow and setup](https://github.com/burma-project-ideas/adhihtan#readme)
 
