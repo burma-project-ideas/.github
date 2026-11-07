@@ -10,7 +10,7 @@ Burma Project Ideas helps junior developers from Myanmar build their first proje
 
 ## Projects
 
-Ordered by repository creation date, newest first. Dates come from GitHub's `created_at` field in UTC and are not confirmed project kickoff dates. Snapshot: 2026-11-04; Word List, Burglish, Burma Love Calculator, and Burma Word Quest added 2026-11-07. Git contributors are listed separately from original creators and upstream content, data, or engine sources. A commit credit does not establish original authorship. Creator/source credits were checked against project READMEs and their linked notices on 2026-11-07; authors not identified there are not inferred. The `.github` organization-profile repository and backup repositories are excluded.
+Ordered by repository creation date, newest first. Dates come from GitHub's `created_at` field in UTC and are not confirmed project kickoff dates. Snapshot: 2026-11-04; Word List, Burglish, Burma Love Calculator, and Burma Word Quest added 2026-11-07; Collin Radio added 2026-11-08. Git contributors are listed separately from original creators and upstream content, data, or engine sources. A commit credit does not establish original authorship. Creator/source credits were checked against project READMEs and their linked notices on 2026-11-07; authors not identified there are not inferred. The `.github` organization-profile repository and backup repositories are excluded.
 
 Live-app links were checked on 2026-11-07. “Demo (unverified)” links are published by the project repositories, but availability could not be confirmed during this check. Projects without an identified app URL retain only their repository link.
 
@@ -26,6 +26,7 @@ Live-app links were checked on 2026-11-07. “Demo (unverified)” links are pub
 | Mantra Calendar | <code>2025&#8209;08&#8209;21</code> | [mantra-calendar](https://github.com/burma-project-ideas/mantra-calendar) · [Live app](https://burma-mantra-calendar.vercel.app/) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding), [@myatphonethant-dev](https://github.com/myatphonethant-dev) |
 | PhayarSar | <code>2024&#8209;06&#8209;09</code> | [phayar-sar](https://github.com/burma-project-ideas/phayar-sar) · [Live app](https://blazor-wasm-phayarsar.vercel.app/) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) |
 | Banking Management System | <code>2024&#8209;03&#8209;15</code> | [banking-management-system](https://github.com/burma-project-ideas/banking-management-system) · [Live app](https://blazor-wasm-banking-management-system.vercel.app/) | Git contributors: [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding); Source: [MIMU Place Codes](https://themimu.info/place-codes) (state/township data) |
+| Collin Radio (Melodic Journeys of Collin) | <code>2024&#8209;01&#8209;31</code> | [melodic-journeys-of-collin](https://github.com/burma-project-ideas/melodic-journeys-of-collin) · [Live app](https://burma-collin.vercel.app/) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) (Blazor app); Collin and credited collaborators (music and artwork; see [project credits](https://github.com/burma-project-ideas/melodic-journeys-of-collin#readme)) |
 | Burmese Agriculture | <code>2024&#8209;01&#8209;14</code> | [burmese-agriculture](https://github.com/burma-project-ideas/burmese-agriculture) · [Live app](https://blazor-wasm-burmese-agriculture.vercel.app/) | Git contributors: [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding), [@zinlynhtet](https://github.com/zinlynhtet); Source: [အစိမ်းရောင်လမ်း / Green Way](https://greenwaymyanmar.com/) (agriculture content) |
 | Burmese Recipes | <code>2024&#8209;01&#8209;11</code> | [burmese-recipes](https://github.com/burma-project-ideas/burmese-recipes) · [Live app](https://blazor-wasm-burmese-recipes.vercel.app/) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding), [@zinlynhtet](https://github.com/zinlynhtet), [@mgchit-coding](https://github.com/mgchit-coding) |
 | Quotlets | <code>2024&#8209;01&#8209;06</code> | [quotlets](https://github.com/burma-project-ideas/quotlets) · [Live app](https://blazor-wasm-quotlets.vercel.app/) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) |
@@ -54,6 +55,18 @@ Live-app links were checked on 2026-11-07. “Demo (unverified)” links are pub
 Account၊ Leaderboard နဲ့ Player Profile အတွက် Supabase ကို အသုံးပြုထားပါတယ်။ ၂၀၂၆ နိုဝင်ဘာ ၇ ရက် စစ်ဆေးစဉ်မှာ Backend ချိတ်ဆက်မှု မအောင်မြင်ခဲ့လို့ Sign-in နဲ့ Cloud Save ကို အတည်မပြုရသေးပါဘူး။ Ranking က Client-reported Result ဖြစ်ပါတယ်။ Domain အသစ်အတွက် Auth Provider Settings ပြင်ရန်လည်း ကျန်ရှိပါတယ်။
 
 မူရင်း **Assembly: End-Game**: [Sai Wanna Tun (@SaiWunnaTun-KP၊ ယခင် Jeff307-kib)](https://github.com/SaiWunnaTun-KP/End-Game)။ ထပ်မံပြင်ဆင်ရေးသားမှု: [Sann Lynn Htun](https://github.com/sannlynnhtun-coding)။ Slang Data: [Ban Sagar](https://bansagar.com/)။ စကားပုံ Data: ဆရာ ဒေါက်တာ ဝင်းသိန်း၏ Website။ [မူရင်းရင်းမြစ်နဲ့ License ကန့်သတ်ချက်များ](https://github.com/burma-project-ideas/burma-word-quest#readme) ကို Project README မှာ ဖော်ပြထားပါတယ်။
+
+## Collin Radio (Melodic Journeys of Collin)
+
+<p><a href="https://burma-collin.vercel.app/"><img src="https://raw.githubusercontent.com/burma-project-ideas/melodic-journeys-of-collin/master/BlazorWasm.MelodicJourneysOfCollin/wwwroot/logo.svg" width="72" height="72" alt="Collin Radio turntable logo with vinyl record and tonearm" /></a></p>
+
+[Open Collin Radio](https://burma-collin.vercel.app/) · [App Workflow နဲ့ Setup Guide](https://github.com/burma-project-ideas/melodic-journeys-of-collin#readme)
+
+Collin ရဲ့ Music Catalog ကို ရှာဖွေနားထောင်နိုင်တဲ့ **.NET 8 Blazor WebAssembly App** ပါ။ Discover၊ Releases၊ Albums၊ Favorites နဲ့ DJ Room ပါဝင်ပြီး Page ပြောင်းသွားလည်း Shared Player က ဆက်နားထောင်နိုင်ပါတယ်။ Turntable၊ Queue၊ Seek နဲ့ Volume Controls၊ Light/Dark Theme နဲ့ Mobile Layout ကို ပံ့ပိုးထားပါတယ်။ Favorites နဲ့ Theme ကို Browser ထဲမှာ သိမ်းထားပြီး Account မလိုပါဘူး။
+
+[![Collin Radio landing page showing the turntable logo, gradient headline, and floating music player](https://raw.githubusercontent.com/burma-project-ideas/melodic-journeys-of-collin/master/screenshots/home-dark.jpg)](https://burma-collin.vercel.app/)
+
+App: [Sann Lynn Htun](https://github.com/sannlynnhtun-coding). Music နဲ့ Artwork: Collin နဲ့ Catalog ထဲက ပူးပေါင်းဖန်တီးသူများ။ UI reference: [PrebuiltUI](https://prebuiltui.com/)။ [Full credits, screenshots, and workflow](https://github.com/burma-project-ideas/melodic-journeys-of-collin#readme) ကို ဖတ်နိုင်ပါတယ်။ Live link နဲ့ Preview Assets ကို 2026-11-08 မှာ စစ်ဆေးထားပါတယ်။
 
 ## Zodiac
 
