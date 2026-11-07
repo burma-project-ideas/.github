@@ -16,7 +16,7 @@ Live-app links were checked on 2026-11-07. “Demo (unverified)” links are pub
 
 | Project | Created&nbsp;date | Repository | Contributors / source credits |
 | --- | :---: | --- | --- |
-| Office Zoo | <code>2026&#8209;11&#8209;04</code> | [office-zoo](https://github.com/burma-project-ideas/office-zoo) · [Live app](https://office-zoo.vercel.app/) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) |
+| Office Zoo | <code>2026&#8209;11&#8209;04</code> | [office-zoo](https://github.com/burma-project-ideas/office-zoo) · [Live app](https://office-zoo.vercel.app/) | [Harry Hein (@kaungmyathein)](https://github.com/kaungmyathein) (original creator and content); [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) (repository maintenance) |
 | Burma Calendar | <code>2026&#8209;09&#8209;01</code> | [burma-calendar](https://github.com/burma-project-ideas/burma-calendar) · [Live app](https://burma-calendar.vercel.app/) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) |
 | Burglish | <code>2026&#8209;08&#8209;20</code> | [burglish](https://github.com/burma-project-ideas/burglish) · [Live app](https://burglish-blazor.vercel.app/) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding), [@theinhtetaung-dev](https://github.com/theinhtetaung-dev) |
 | Adhihtan | <code>2026&#8209;08&#8209;15</code> | [adhihtan](https://github.com/burma-project-ideas/adhihtan) · [Live app](https://adhihtan.vercel.app/) | [Yan Naing Htin Kyaw](https://th.linkedin.com/in/yan-naing-htin-kyaw-5b6570256) (original Android app); [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) (Blazor recreation inspired by its flow) |
