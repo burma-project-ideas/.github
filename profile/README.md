@@ -16,7 +16,7 @@ Ordered by repository creation date, newest first. Dates come from GitHub's `cre
 | --- | :---: | --- | --- |
 | Office Zoo | <code>2026&#8209;11&#8209;04</code> | [office-zoo](https://github.com/burma-project-ideas/office-zoo) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) |
 | Burma Calendar | <code>2026&#8209;09&#8209;01</code> | [burma-calendar](https://github.com/burma-project-ideas/burma-calendar) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) |
-| Word List | <code>2026&#8209;03&#8209;04</code> | [word-list](https://github.com/burma-project-ideas/word-list) | [Kanaung Wordlists](https://github.com/kanaung/wordlists) (wordlist data), [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) (app) |
+| Word List | <code>2026&#8209;03&#8209;04</code> | [word-list](https://github.com/burma-project-ideas/word-list) · [Live app](https://blazor-word-list.vercel.app/) | [Kanaung Wordlists](https://github.com/kanaung/wordlists) (wordlist data), [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) (app) |
 | Mantra Calendar | <code>2025&#8209;08&#8209;21</code> | [mantra-calendar](https://github.com/burma-project-ideas/mantra-calendar) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding), [@myatphonethant-dev](https://github.com/myatphonethant-dev) |
 | PhayarSar | <code>2024&#8209;06&#8209;09</code> | [phayar-sar](https://github.com/burma-project-ideas/phayar-sar) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) |
 | Banking Management System | <code>2024&#8209;03&#8209;15</code> | [banking-management-system](https://github.com/burma-project-ideas/banking-management-system) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) |
@@ -36,3 +36,11 @@ Ordered by repository creation date, newest first. Dates come from GitHub's `cre
 | Movie Ticket Online Booking System | <code>2023&#8209;10&#8209;07</code> | [movie-ticket-online-booking-system](https://github.com/burma-project-ideas/movie-ticket-online-booking-system) | [@mgchit-coding](https://github.com/mgchit-coding), [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding), [@OatSoeK](https://github.com/OatSoeK), [@phyuphyuthin-coding](https://github.com/phyuphyuthin-coding) |
 | Dream Dictionary | <code>2023&#8209;10&#8209;07</code> | [dream-dictionary](https://github.com/burma-project-ideas/dream-dictionary) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding), [@OatSoeK](https://github.com/OatSoeK) |
 | Min Thein Kha - Lat Htauk Bay Din | <code>2023&#8209;10&#8209;05</code> | [min-thein-kha-lat-htauk-bay-din](https://github.com/burma-project-ideas/min-thein-kha-lat-htauk-bay-din) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding), [@OatSoeK](https://github.com/OatSoeK) |
+
+## Word List
+
+[Open the dictionary](https://blazor-word-list.vercel.app/) · [Open the spell checker](https://blazor-word-list.vercel.app/spell-check) · [Read the workflow and setup guide](https://github.com/burma-project-ideas/word-list#readme)
+
+မြန်မာစကားလုံးတွေကို အစစာလုံးအလိုက် ရှာဖွေနိုင်ပြီး စာလုံးပေါင်းစစ်ခြင်း၊ အကြံပြုစကားလုံးရွေးခြင်းနဲ့ စာသားကို `.txt` အဖြစ် သိမ်းခြင်းတို့ လုပ်နိုင်ပါတယ်။ Mobile Layout၊ Light/Dark Theme နဲ့ Keyboard အသုံးပြုမှုကိုလည်း ပံ့ပိုးထားပါတယ်။ စာလုံးပေါင်းစစ်ခြင်းကို Browser ထဲမှာပဲ လုပ်ဆောင်ပါတယ်။
+
+Wordlist data: [Kanaung Wordlists and its contributors](https://github.com/kanaung/wordlists). App: [Sann Lynn Htun](https://github.com/sannlynnhtun-coding). The Blazor interface adapts [Prestige UI](https://prestigeui.com/) components; [credits and licenses](https://github.com/burma-project-ideas/word-list/blob/master/THIRD_PARTY_NOTICES.md) are included in the project.
