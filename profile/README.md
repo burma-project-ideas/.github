@@ -17,6 +17,7 @@ Ordered by repository creation date, newest first. Dates come from GitHub's `cre
 | Office Zoo | <code>2026&#8209;11&#8209;04</code> | [office-zoo](https://github.com/burma-project-ideas/office-zoo) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) |
 | Burma Calendar | <code>2026&#8209;09&#8209;01</code> | [burma-calendar](https://github.com/burma-project-ideas/burma-calendar) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) |
 | Burglish | <code>2026&#8209;08&#8209;20</code> | [burglish](https://github.com/burma-project-ideas/burglish) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding), [@theinhtetaung-dev](https://github.com/theinhtetaung-dev) |
+| Adhihtan | <code>2026&#8209;08&#8209;15</code> | [adhihtan](https://github.com/burma-project-ideas/adhihtan) · [Live app](https://adhihtan.vercel.app/) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) (Blazor app); recovered content: Android `com.a_dhi_htan` 1.3.1, original author not identified |
 | Burma Love Calculator | <code>2026&#8209;04&#8209;27</code> | [burma-love-calculator](https://github.com/burma-project-ideas/burma-love-calculator) · [Live app](https://blazor-burma-love-calculator.vercel.app/) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) |
 | Word List | <code>2026&#8209;03&#8209;04</code> | [word-list](https://github.com/burma-project-ideas/word-list) · [Live app](https://blazor-word-list.vercel.app/) | [Kanaung Wordlists](https://github.com/kanaung/wordlists) (wordlist data), [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) (app) |
 | Mantra Calendar | <code>2025&#8209;08&#8209;21</code> | [mantra-calendar](https://github.com/burma-project-ideas/mantra-calendar) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding), [@myatphonethant-dev](https://github.com/myatphonethant-dev) |
@@ -56,3 +57,11 @@ App: [Sann Lynn Htun](https://github.com/sannlynnhtun-coding). UI: adapted from 
 မြန်မာစကားလုံးတွေကို အစစာလုံးအလိုက် ရှာဖွေနိုင်ပြီး စာလုံးပေါင်းစစ်ခြင်း၊ အကြံပြုစကားလုံးရွေးခြင်းနဲ့ စာသားကို `.txt` အဖြစ် သိမ်းခြင်းတို့ လုပ်နိုင်ပါတယ်။ Mobile Layout၊ Light/Dark Theme နဲ့ Keyboard အသုံးပြုမှုကိုလည်း ပံ့ပိုးထားပါတယ်။ စာလုံးပေါင်းစစ်ခြင်းကို Browser ထဲမှာပဲ လုပ်ဆောင်ပါတယ်။
 
 Wordlist data: [Kanaung Wordlists and its contributors](https://github.com/kanaung/wordlists). App: [Sann Lynn Htun](https://github.com/sannlynnhtun-coding). The Blazor interface adapts [Prestige UI](https://prestigeui.com/) components; [credits and licenses](https://github.com/burma-project-ideas/word-list/blob/master/THIRD_PARTY_NOTICES.md) are included in the project.
+
+## Adhihtan
+
+[Open the app](https://adhihtan.vercel.app/) · [Workflow and setup](https://github.com/burma-project-ideas/adhihtan#readme)
+
+An offline-capable .NET 10 Blazor WebAssembly practice planner and prayer-bead counter with Myanmar/English interface selection (Myanmar by default), local history, JSON backups, and an orange dashboard inspired by [Board UI](https://www.boardui.com/). Prayer names and source instructions remain Burmese.
+
+App contributor: [Sann Lynn Htun](https://github.com/sannlynnhtun-coding). Recovered content metadata identifies Android package `com.a_dhi_htan` version 1.3.1; original authorship and redistribution terms are not identified. The interface is app-specific Blazor/CSS, not bundled Board UI React/Pro source. See [source notices](https://github.com/burma-project-ideas/adhihtan/blob/main/THIRD_PARTY_NOTICES.md).
