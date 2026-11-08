@@ -107,7 +107,7 @@ Explore twenty fruits in a responsive image-card catalog, search by Myanmar name
 
 [![Fruits: redesigned dark interface with the new leaf logo](https://raw.githubusercontent.com/burma-project-ideas/fruits/6c8740f7a1a69ab352e3467e2eeeb72c33f8ef64/screenshots/redesign-desktop.jpg)](https://burma-fruits.vercel.app/)
 
-Git contributors: [Sann Lynn Htun](https://github.com/sannlynnhtun-coding), [Zin Lyn Htet](https://github.com/zinlynhtet). Original fruit data/image creators are not identified; catalog health descriptions have not been medically reviewed. UI direction: [Bencho](https://bencho.dev/), recreated with native Blazor and compiled Tailwind CSS. [Full credits and licenses](https://github.com/burma-project-ideas/fruits#readme).
+Git contributors: [Sann Lynn Htun](https://github.com/sannlynnhtun-coding), [@zinlynhtet](https://github.com/zinlynhtet). Original fruit data/image creators are not identified; catalog health descriptions have not been medically reviewed. UI direction: [Bencho](https://bencho.dev/), recreated with native Blazor and compiled Tailwind CSS. [Full credits and licenses](https://github.com/burma-project-ideas/fruits#readme).
 
 ## Burma Word Quest
 
