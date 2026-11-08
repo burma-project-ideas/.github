@@ -104,4 +104,4 @@ Git contribution credits and original content authorship are distinct. The refer
 
 ## Organization repositories
 
-[.github](https://github.com/burma-project-ideas/.github) maintains this organization profile and shared branding. [Burma Calendar backup](https://github.com/burma-project-ideas/burma-calendar-backup-20261104-1353816837) is a backup repository; use [Burma Calendar](https://github.com/burma-project-ideas/burma-calendar) for the current project.
+[.github](https://github.com/burma-project-ideas/.github) maintains this organization profile and shared branding.
