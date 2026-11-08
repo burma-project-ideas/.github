@@ -47,7 +47,7 @@ Each repository explains its own scope, data, workflow, and setup. App and demo 
 | Pick A Pile | A question-and-picture selection project that reveals a corresponding reading. | [pick-a-pile](https://github.com/burma-project-ideas/pick-a-pile) · [Demo (unverified)](https://blazor-wasm-pick-a-pile.netlify.app/) |
 | Movie Ticket Online Booking System | A sample booking flow for choosing a movie, cinema, room, showtime, and seats, then producing ticket vouchers. | [movie-ticket-online-booking-system](https://github.com/burma-project-ideas/movie-ticket-online-booking-system) · [Live app](https://blazor-wasm-mtobs.vercel.app/) |
 | Dream Dictionary | Traditional dream interpretations organized by Myanmar letter and searchable topic. | [dream-dictionary](https://github.com/burma-project-ideas/dream-dictionary) · [Demo (unverified)](https://blazor-wasm-dream-dictionary.vercel.app/) |
-| Min Thein Kha - Lat Htauk Bay Din | A traditional divination project matching a chosen question and grid number to an answer. | [min-thein-kha-lat-htauk-bay-din](https://github.com/burma-project-ideas/min-thein-kha-lat-htauk-bay-din) · [Live app](https://mintheinkha-lathtaukbaydin.netlify.app/) |
+| Min Thein Kha - Lat Htauk Bay Din | A traditional divination project matching a chosen question and grid number to an answer. | [min-thein-kha-lat-htauk-bay-din](https://github.com/burma-project-ideas/min-thein-kha-lat-htauk-bay-din) · [Live app](https://mintheinkha-lathtaukbaydin.vercel.app/) |
 
 ## Start learning
 
