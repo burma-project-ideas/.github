@@ -12,7 +12,7 @@ Burma Project Ideas helps junior developers from Myanmar build their first proje
 
 Ordered by repository creation date, newest first. Dates come from GitHub's `created_at` field in UTC and are not confirmed project kickoff dates. Snapshot: 2026-11-04; Word List, Burglish, Burma Love Calculator, and Burma Word Quest added 2026-11-07; Collin Radio, Myanmar Namelogy, Nat Myat Si, Myanmar Sar, Myanmar Astro Horo, and Fruits added 2026-11-08. Git contributors are listed separately from original creators and upstream content, data, or engine sources. A commit credit does not establish original authorship. Creator/source credits were checked against project READMEs and their linked notices on 2026-11-07; authors not identified there are not inferred. The `.github` organization-profile repository and backup repositories are excluded.
 
-Live-app links were checked on 2026-11-07. “Demo (unverified)” links are published by the project repositories, but availability could not be confirmed during this check. Projects without an identified app URL retain only their repository link. For the 2026-11-08 additions, Nat Myat Si, Myanmar Sar, and Myanmar Namelogy returned HTTP 200. Myanmar Sar is now public. Myanmar Astro Horo and Fruits were deployed to Vercel and checked on 2026-11-08: horoscope calculation, fruit paging, and image expansion worked. Myanmar Namelogy uses GitHub Actions to publish the built .NET app; competing unbuilt Git deployments are disabled.
+Live-app links were checked on 2026-11-07. “Demo (unverified)” links are published by the project repositories, but availability could not be confirmed during this check. Projects without an identified app URL retain only their repository link. For the 2026-11-08 additions, Nat Myat Si, Myanmar Sar, and Myanmar Namelogy returned HTTP 200. Myanmar Sar is now public. Myanmar Astro Horo and Fruits were deployed to Vercel and checked on 2026-11-08: horoscope calculation, fruit name search, and expandable fruit details worked. Their new monochrome logos, dark Tailwind interfaces, and desktop previews were refreshed on 2026-11-08. Myanmar Namelogy uses GitHub Actions to publish the built .NET app; competing unbuilt Git deployments are disabled.
 
 | Project | Created&nbsp;date | Repository | Contributors / source credits |
 | --- | :---: | --- | --- |
@@ -48,6 +48,66 @@ Live-app links were checked on 2026-11-07. “Demo (unverified)” links are pub
 | Movie Ticket Online Booking System | <code>2023&#8209;10&#8209;07</code> | [movie-ticket-online-booking-system](https://github.com/burma-project-ideas/movie-ticket-online-booking-system) · [Live app](https://blazor-wasm-mtobs.vercel.app/) | [@mgchit-coding](https://github.com/mgchit-coding), [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding), [@OatSoeK](https://github.com/OatSoeK), [@phyuphyuthin-coding](https://github.com/phyuphyuthin-coding) |
 | Dream Dictionary | <code>2023&#8209;10&#8209;07</code> | [dream-dictionary](https://github.com/burma-project-ideas/dream-dictionary) · [Demo (unverified)](https://blazor-wasm-dream-dictionary.vercel.app/) | Git contributors: [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding), [@OatSoeK](https://github.com/OatSoeK); Source: အိမ်မက်အမျိုးမျိုးနှင့်အသားလှုပ်နိမိတ် (book content cited in the [project README](https://github.com/burma-project-ideas/dream-dictionary#readme); author not identified there) |
 | Min Thein Kha - Lat Htauk Bay Din | <code>2023&#8209;10&#8209;05</code> | [min-thein-kha-lat-htauk-bay-din](https://github.com/burma-project-ideas/min-thein-kha-lat-htauk-bay-din) · [Live app](https://mintheinkha-lathtaukbaydin.netlify.app/) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding), [@OatSoeK](https://github.com/OatSoeK) |
+
+## Myanmar Namelogy
+
+<p><a href="https://myanmar-nameology.vercel.app/"><img src="https://raw.githubusercontent.com/burma-project-ideas/myanmar-namelogy/8d4983b80d341b96237bff570118e54c08501789/MyanmarNameology/wwwroot/branding/icon-192.png" width="72" height="72" alt="Myanmar Namelogy — linked-glyph logo" /></a></p>
+
+[Open the live app](https://myanmar-nameology.vercel.app/) · [Workflow, setup, and brand assets](https://github.com/burma-project-ideas/myanmar-namelogy#readme)
+
+Calculate a Myanmar name number and explore the day-letter reference in a compact, browser-based workspace. The result is a traditional numerology reading for entertainment and reflection.
+
+[![Myanmar Namelogy: redesigned dark interface with the new linked-glyph logo](https://raw.githubusercontent.com/burma-project-ideas/myanmar-namelogy/8d4983b80d341b96237bff570118e54c08501789/screenshots/redesign-desktop.jpg)](https://myanmar-nameology.vercel.app/)
+
+App: [Sann Lynn Htun](https://github.com/sannlynnhtun-coding); additional contributors and source notices are listed in the project README. The original numerology source is not identified. UI direction: [Bencho](https://bencho.dev/), recreated with native Blazor and compiled Tailwind CSS. [Full credits and licenses](https://github.com/burma-project-ideas/myanmar-namelogy#readme).
+
+## Nat Myat Si (နတ်မျက်စိ)
+
+<p><a href="https://nat-myat-si.vercel.app/"><img src="https://raw.githubusercontent.com/burma-project-ideas/nat-myat-si/c728306336cbcab6c67ca64dcc5b472871e82107/wwwroot/branding/icon-192.png" width="72" height="72" alt="Nat Myat Si (နတ်မျက်စိ) — eye logo" /></a></p>
+
+[Open the live app](https://nat-myat-si.vercel.app/) · [Workflow, setup, and brand assets](https://github.com/burma-project-ideas/nat-myat-si#readme)
+
+Choose a question, select one of sixteen covered symbols, and reveal a traditional reading. The interface supports English and Myanmar; the question and answer catalog is compiled into the Blazor app.
+
+[![Nat Myat Si (နတ်မျက်စိ): redesigned dark interface with the new eye logo](https://raw.githubusercontent.com/burma-project-ideas/nat-myat-si/c728306336cbcab6c67ca64dcc5b472871e82107/screenshots/redesign-desktop.jpg)](https://nat-myat-si.vercel.app/)
+
+App: [Sann Lynn Htun](https://github.com/sannlynnhtun-coding). The original question/answer author is not identified. UI direction: [Bencho](https://bencho.dev/), recreated with native Blazor and compiled Tailwind CSS. [Full credits and licenses](https://github.com/burma-project-ideas/nat-myat-si#readme).
+
+## Myanmar Sar — လက်ကလေး
+
+<p><a href="https://myanmarzar.vercel.app/"><img src="https://raw.githubusercontent.com/burma-project-ideas/myanmar-sar/f469d443b6b96184caef455240817efa747ee92d/MyanmarZar/wwwroot/branding/icon-192.png" width="72" height="72" alt="Myanmar Sar — လက်ကလေး — pencil logo" /></a></p>
+
+[Open the live app](https://myanmarzar.vercel.app/) · [Workflow, setup, and brand assets](https://github.com/burma-project-ideas/myanmar-sar#readme)
+
+Practice writing the 33 Myanmar consonants with illustrated stroke guides and a touch-friendly drawing canvas. Letter selection, undo/clear controls, and saved practice progress work in the browser.
+
+[![Myanmar Sar — လက်ကလေး: redesigned dark interface with the new pencil logo](https://raw.githubusercontent.com/burma-project-ideas/myanmar-sar/f469d443b6b96184caef455240817efa747ee92d/screenshots/redesign-desktop.jpg)](https://myanmarzar.vercel.app/)
+
+App: [Sann Lynn Htun](https://github.com/sannlynnhtun-coding). The worksheet creator is not identified. UI direction: [Bencho](https://bencho.dev/), recreated with native Blazor and compiled Tailwind CSS. [Full credits and licenses](https://github.com/burma-project-ideas/myanmar-sar#readme).
+
+## Myanmar Astro Horo
+
+<p><a href="https://myanmar-astro-horo.vercel.app/"><img src="https://raw.githubusercontent.com/burma-project-ideas/myanmar-astro-horo/361bb61d82199d696e920013d11e6f6cb58403ee/BlazorMyanmarAstroHoro/wwwroot/branding/icon-192.png" width="72" height="72" alt="Myanmar Astro Horo — orbital-star logo" /></a></p>
+
+[Open the live app](https://myanmar-astro-horo.vercel.app/) · [Workflow, setup, and brand assets](https://github.com/burma-project-ideas/myanmar-astro-horo#readme)
+
+Explore traditional Myanmar horoscope calculations using birth date, time, and location. The dark workspace presents chart divisions, planetary positions, calendar information, and Dasa periods for learning and reflection.
+
+[![Myanmar Astro Horo: redesigned dark interface with the new orbital-star logo](https://raw.githubusercontent.com/burma-project-ideas/myanmar-astro-horo/361bb61d82199d696e920013d11e6f6cb58403ee/screenshots/redesign-desktop.jpg)](https://myanmar-astro-horo.vercel.app/)
+
+Blazor port: [Sann Lynn Htun](https://github.com/sannlynnhtun-coding). Calculation and city-data reference: [fossmyanmar/myanmar_astro_horo](https://github.com/fossmyanmar/myanmar_astro_horo). UI direction: [Bencho](https://bencho.dev/), recreated with native Blazor and compiled Tailwind CSS. [Full credits and licenses](https://github.com/burma-project-ideas/myanmar-astro-horo#readme).
+
+## Fruits
+
+<p><a href="https://burma-fruits.vercel.app/"><img src="https://raw.githubusercontent.com/burma-project-ideas/fruits/6c8740f7a1a69ab352e3467e2eeeb72c33f8ef64/BlazorWasm.Fruits/wwwroot/branding/icon-192.png" width="72" height="72" alt="Fruits — leaf logo" /></a></p>
+
+[Open the live app](https://burma-fruits.vercel.app/) · [Workflow, setup, and brand assets](https://github.com/burma-project-ideas/fruits#readme)
+
+Explore twenty fruits in a responsive image-card catalog, search by Myanmar name, and expand each card to read its description. The app uses native Blazor controls and Tailwind CSS without a component library.
+
+[![Fruits: redesigned dark interface with the new leaf logo](https://raw.githubusercontent.com/burma-project-ideas/fruits/6c8740f7a1a69ab352e3467e2eeeb72c33f8ef64/screenshots/redesign-desktop.jpg)](https://burma-fruits.vercel.app/)
+
+Git contributors: [Sann Lynn Htun](https://github.com/sannlynnhtun-coding), [Zin Lyn Htet](https://github.com/zinlynhtet). Original fruit data/image creators are not identified; catalog health descriptions have not been medically reviewed. UI direction: [Bencho](https://bencho.dev/), recreated with native Blazor and compiled Tailwind CSS. [Full credits and licenses](https://github.com/burma-project-ideas/fruits#readme).
 
 ## Burma Word Quest
 
