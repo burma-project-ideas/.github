@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/burma-project-ideas/.github/main/assets/banner-orange.png" width="100%" alt="Burma Project Ideas: Open Source Projects, coral-peach orange banner" />
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/burma-project-ideas/.github/main/assets/logo.png" width="180" alt="Burma Project Ideas logo" />
 </p>
 
