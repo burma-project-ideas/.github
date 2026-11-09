@@ -16,6 +16,7 @@ Each repository explains its own scope, data, workflow, and setup. App and demo 
 
 | Project | Overview | Source / app |
 | --- | --- | --- |
+| Kyar Kwat (ကျားကွက်) | Traditional Burmese draughts with ကျားနိုင် / ကျားကုန် modes, local two-player play, and Easy / Medium / Hard AI in .NET 10 Blazor WebAssembly. | [kyar-kwat](https://github.com/burma-project-ideas/kyar-kwat) · [Live app](https://kyarkwat.vercel.app/) |
 | Office Zoo | A workplace personality quiz with eight animal types and guidance on working together. | [office-zoo](https://github.com/burma-project-ideas/office-zoo) · [Live app](https://office-zoo.vercel.app/) |
 | Burma Word Quest | A word game combining English vocabulary, Myanmar slang, and Burmese proverbs. | [burma-word-quest](https://github.com/burma-project-ideas/burma-word-quest) · [Live app](https://burma-word-quest.vercel.app/) |
 | Myanmar Sar — လက်ကလေး | Myanmar handwriting practice for 33 consonants, with stroke guides and a drawing canvas. | [myanmar-sar](https://github.com/burma-project-ideas/myanmar-sar) · [Live app](https://myanmarzar.vercel.app/) |
@@ -67,6 +68,7 @@ Git contribution credits and original content authorship are distinct. The refer
 
 | Project | Contributors / source credits |
 | --- | --- |
+| [Kyar Kwat (ကျားကွက်)](https://github.com/burma-project-ideas/kyar-kwat) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) (app); [Myanmar checkers](https://harryheinthant.site/checker) (rules reference); font licenses and detailed credits in the [project README](https://github.com/burma-project-ideas/kyar-kwat#readme) |
 | [Office Zoo](https://github.com/burma-project-ideas/office-zoo) | [Harry Hein (@kaungmyathein)](https://github.com/kaungmyathein) (original creator and content); [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) (repository maintenance) |
 | [Burma Word Quest](https://github.com/burma-project-ideas/burma-word-quest) | [Sai Wanna Tun (@SaiWunnaTun-KP, formerly Jeff307-kib)](https://github.com/SaiWunnaTun-KP/End-Game) (original Assembly: End-Game); [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) (additional development); [Ban Sagar](https://bansagar.com/) (slang); Dr. Win Thein (proverbs; see [source credits](https://github.com/burma-project-ideas/burma-word-quest#readme)) |
 | [Myanmar Sar — လက်ကလေး](https://github.com/burma-project-ideas/myanmar-sar) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) (app); worksheet creator not identified |
