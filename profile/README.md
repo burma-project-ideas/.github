@@ -2,10 +2,6 @@
   <img src="https://raw.githubusercontent.com/burma-project-ideas/.github/main/assets/banner-orange.png" width="100%" alt="Burma Project Ideas: Open Source Projects, coral-peach orange banner" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/burma-project-ideas/.github/main/assets/logo.png" width="180" alt="Burma Project Ideas logo" />
-</p>
-
 # Burma Project Ideas
 
 Burma Project Ideas is a collection of practical project ideas, datasets, workflows, and example applications for developers learning to build software, especially learners from Myanmar. The goal is to give the next developer something concrete to study and recreate in their preferred programming language.
