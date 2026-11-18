@@ -14,84 +14,107 @@ The projects cover Myanmar language and culture, reference catalogs, calendars, 
 
 Thanks to the developers, testers, original creators, and community participants credited across Burma Project Ideas repositories:
 
-- [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding)
-- [@theinhtetaung-dev](https://github.com/theinhtetaung-dev)
-- [@myatphonethant-dev](https://github.com/myatphonethant-dev)
-- [@zinlynhtet](https://github.com/zinlynhtet)
-- [@mgchit-coding](https://github.com/mgchit-coding)
-- [@phyuphyuthin-coding](https://github.com/phyuphyuthin-coding)
-- [@naykhantkyaw-coding](https://github.com/naykhantkyaw-coding)
-- [@OatSoeK](https://github.com/OatSoeK)
-- [@thirilinn-dev](https://github.com/thirilinn-dev)
-- [@AiraSan](https://github.com/AiraSan)
-- [@akmm-dev](https://github.com/akmm-dev)
-- [@Amoz19](https://github.com/Amoz19)
-- [@Antaraes](https://github.com/Antaraes)
-- [@aungchanpyae33](https://github.com/aungchanpyae33)
-- [@aungkaungmyat9504](https://github.com/aungkaungmyat9504)
-- [@AungYarzarHein](https://github.com/AungYarzarHein)
-- [@ayechanaung-coding](https://github.com/ayechanaung-coding)
-- [@ayechanaungybm](https://github.com/ayechanaungybm)
-- [@dabria2004](https://github.com/dabria2004)
-- [@Danny7Kri3s](https://github.com/Danny7Kri3s)
-- [@FairyLychee](https://github.com/FairyLychee)
-- [@felixkai34](https://github.com/felixkai34)
-- [@hlaingmyoaungdeveloper](https://github.com/hlaingmyoaungdeveloper)
-- [@hnintheinttheintphyoe](https://github.com/hnintheinttheintphyoe)
-- [@HponeMyatThu](https://github.com/HponeMyatThu)
-- [@htarhtarei670](https://github.com/htarhtarei670)
-- [@htetpyie](https://github.com/htetpyie)
-- [@Kaung-Myat](https://github.com/Kaung-Myat)
-- [@kaungmyathein](https://github.com/kaungmyathein)
-- [@kaungsithu202](https://github.com/kaungsithu202)
-- [@kmthein](https://github.com/kmthein)
-- [@KoTerryHtay](https://github.com/KoTerryHtay)
-- [@kyaw-codes](https://github.com/kyaw-codes)
-- [@KyawKyawHein](https://github.com/KyawKyawHein)
-- [@KyawMgMgThu](https://github.com/KyawMgMgThu)
-- [@LinnHtet29](https://github.com/LinnHtet29)
-- [@LinPaing21](https://github.com/LinPaing21)
-- [@LinThit27](https://github.com/LinThit27)
-- [@mhkhizil](https://github.com/mhkhizil)
-- [@Mi-Mi-Soe](https://github.com/Mi-Mi-Soe)
-- [@minthantkyaw28](https://github.com/minthantkyaw28)
-- [@Minthiketun](https://github.com/Minthiketun)
-- [@Mozart-liv](https://github.com/Mozart-liv)
-- [@myaphoo17](https://github.com/myaphoo17)
-- [@MyatKhineL](https://github.com/MyatKhineL)
-- [@myatphonekhant-developer](https://github.com/myatphonekhant-developer)
-- [@myatthitlwin8](https://github.com/myatthitlwin8)
-- [@n3k00](https://github.com/n3k00)
-- [@NayChiMinThein](https://github.com/NayChiMinThein)
-- [@OatSoeKhant-Coding](https://github.com/OatSoeKhant-Coding)
-- [@ookyawsoe-dev](https://github.com/ookyawsoe-dev)
-- [@PaingSKhant](https://github.com/PaingSKhant)
-- [@peterlianpi](https://github.com/peterlianpi)
-- [@PhoneMinMyat](https://github.com/PhoneMinMyat)
-- [@phonewinttun-dev](https://github.com/phonewinttun-dev)
-- [@phyoko72](https://github.com/phyoko72)
-- [@Phyowunnakyaw](https://github.com/Phyowunnakyaw)
-- [@PhyoZayHtike](https://github.com/PhyoZayHtike)
-- [@Rasunon-Soare](https://github.com/Rasunon-Soare)
-- [@SaiWunnaTun-KP](https://github.com/SaiWunnaTun-KP)
-- [@SaiZayarHtet7](https://github.com/SaiZayarHtet7)
-- [@San-Linn-Phyo](https://github.com/San-Linn-Phyo)
-- [@scm-htethtetkhine](https://github.com/scm-htethtetkhine)
-- [@shinewwaihtun](https://github.com/shinewwaihtun)
-- [@THaSoe](https://github.com/THaSoe)
-- [@ThihaThantSin777](https://github.com/ThihaThantSin777)
-- [@ThomasNine](https://github.com/ThomasNine)
-- [@thukhachanthar](https://github.com/thukhachanthar)
-- [@thukyaw11](https://github.com/thukyaw11)
-- [@thutashein](https://github.com/thutashein)
-- [@wunnaaung-dev](https://github.com/wunnaaung-dev)
-- [@wyMinLwin](https://github.com/wyMinLwin)
-- [@yellhtetaung](https://github.com/yellhtetaung)
-- [@YeYint3424](https://github.com/YeYint3424)
-- [@yeyintaung-coding](https://github.com/yeyintaung-coding)
-- [@YeYintAung94](https://github.com/YeYintAung94)
-- [@yoonren6324](https://github.com/yoonren6324)
-- [@Zinmoeag](https://github.com/Zinmoeag)
+<p>
+  <a href="https://github.com/sannlynnhtun-coding"><img src="https://github.com/sannlynnhtun-coding.png?size=64" width="48" height="48" alt="sannlynnhtun-coding" title="sannlynnhtun-coding" /></a>
+  <a href="https://github.com/theinhtetaung-dev"><img src="https://github.com/theinhtetaung-dev.png?size=64" width="48" height="48" alt="theinhtetaung-dev" title="theinhtetaung-dev" /></a>
+  <a href="https://github.com/myatphonethant-dev"><img src="https://github.com/myatphonethant-dev.png?size=64" width="48" height="48" alt="myatphonethant-dev" title="myatphonethant-dev" /></a>
+  <a href="https://github.com/zinlynhtet"><img src="https://github.com/zinlynhtet.png?size=64" width="48" height="48" alt="zinlynhtet" title="zinlynhtet" /></a>
+  <a href="https://github.com/mgchit-coding"><img src="https://github.com/mgchit-coding.png?size=64" width="48" height="48" alt="mgchit-coding" title="mgchit-coding" /></a>
+  <a href="https://github.com/phyuphyuthin-coding"><img src="https://github.com/phyuphyuthin-coding.png?size=64" width="48" height="48" alt="phyuphyuthin-coding" title="phyuphyuthin-coding" /></a>
+  <a href="https://github.com/naykhantkyaw-coding"><img src="https://github.com/naykhantkyaw-coding.png?size=64" width="48" height="48" alt="naykhantkyaw-coding" title="naykhantkyaw-coding" /></a>
+  <a href="https://github.com/OatSoeK"><img src="https://github.com/OatSoeK.png?size=64" width="48" height="48" alt="OatSoeK" title="OatSoeK" /></a>
+  <a href="https://github.com/thirilinn-dev"><img src="https://github.com/thirilinn-dev.png?size=64" width="48" height="48" alt="thirilinn-dev" title="thirilinn-dev" /></a>
+  <a href="https://github.com/AiraSan"><img src="https://github.com/AiraSan.png?size=64" width="48" height="48" alt="AiraSan" title="AiraSan" /></a>
+</p>
+
+<p>
+  <a href="https://github.com/akmm-dev"><img src="https://github.com/akmm-dev.png?size=64" width="48" height="48" alt="akmm-dev" title="akmm-dev" /></a>
+  <a href="https://github.com/Amoz19"><img src="https://github.com/Amoz19.png?size=64" width="48" height="48" alt="Amoz19" title="Amoz19" /></a>
+  <a href="https://github.com/Antaraes"><img src="https://github.com/Antaraes.png?size=64" width="48" height="48" alt="Antaraes" title="Antaraes" /></a>
+  <a href="https://github.com/aungchanpyae33"><img src="https://github.com/aungchanpyae33.png?size=64" width="48" height="48" alt="aungchanpyae33" title="aungchanpyae33" /></a>
+  <a href="https://github.com/aungkaungmyat9504"><img src="https://github.com/aungkaungmyat9504.png?size=64" width="48" height="48" alt="aungkaungmyat9504" title="aungkaungmyat9504" /></a>
+  <a href="https://github.com/AungYarzarHein"><img src="https://github.com/AungYarzarHein.png?size=64" width="48" height="48" alt="AungYarzarHein" title="AungYarzarHein" /></a>
+  <a href="https://github.com/ayechanaung-coding"><img src="https://github.com/ayechanaung-coding.png?size=64" width="48" height="48" alt="ayechanaung-coding" title="ayechanaung-coding" /></a>
+  <a href="https://github.com/ayechanaungybm"><img src="https://github.com/ayechanaungybm.png?size=64" width="48" height="48" alt="ayechanaungybm" title="ayechanaungybm" /></a>
+  <a href="https://github.com/dabria2004"><img src="https://github.com/dabria2004.png?size=64" width="48" height="48" alt="dabria2004" title="dabria2004" /></a>
+  <a href="https://github.com/Danny7Kri3s"><img src="https://github.com/Danny7Kri3s.png?size=64" width="48" height="48" alt="Danny7Kri3s" title="Danny7Kri3s" /></a>
+</p>
+
+<p>
+  <a href="https://github.com/FairyLychee"><img src="https://github.com/FairyLychee.png?size=64" width="48" height="48" alt="FairyLychee" title="FairyLychee" /></a>
+  <a href="https://github.com/felixkai34"><img src="https://github.com/felixkai34.png?size=64" width="48" height="48" alt="felixkai34" title="felixkai34" /></a>
+  <a href="https://github.com/hlaingmyoaungdeveloper"><img src="https://github.com/hlaingmyoaungdeveloper.png?size=64" width="48" height="48" alt="hlaingmyoaungdeveloper" title="hlaingmyoaungdeveloper" /></a>
+  <a href="https://github.com/hnintheinttheintphyoe"><img src="https://github.com/hnintheinttheintphyoe.png?size=64" width="48" height="48" alt="hnintheinttheintphyoe" title="hnintheinttheintphyoe" /></a>
+  <a href="https://github.com/HponeMyatThu"><img src="https://github.com/HponeMyatThu.png?size=64" width="48" height="48" alt="HponeMyatThu" title="HponeMyatThu" /></a>
+  <a href="https://github.com/htarhtarei670"><img src="https://github.com/htarhtarei670.png?size=64" width="48" height="48" alt="htarhtarei670" title="htarhtarei670" /></a>
+  <a href="https://github.com/htetpyie"><img src="https://github.com/htetpyie.png?size=64" width="48" height="48" alt="htetpyie" title="htetpyie" /></a>
+  <a href="https://github.com/Kaung-Myat"><img src="https://github.com/Kaung-Myat.png?size=64" width="48" height="48" alt="Kaung-Myat" title="Kaung-Myat" /></a>
+  <a href="https://github.com/kaungmyathein"><img src="https://github.com/kaungmyathein.png?size=64" width="48" height="48" alt="kaungmyathein" title="kaungmyathein" /></a>
+  <a href="https://github.com/kaungsithu202"><img src="https://github.com/kaungsithu202.png?size=64" width="48" height="48" alt="kaungsithu202" title="kaungsithu202" /></a>
+</p>
+
+<p>
+  <a href="https://github.com/kmthein"><img src="https://github.com/kmthein.png?size=64" width="48" height="48" alt="kmthein" title="kmthein" /></a>
+  <a href="https://github.com/KoTerryHtay"><img src="https://github.com/KoTerryHtay.png?size=64" width="48" height="48" alt="KoTerryHtay" title="KoTerryHtay" /></a>
+  <a href="https://github.com/kyaw-codes"><img src="https://github.com/kyaw-codes.png?size=64" width="48" height="48" alt="kyaw-codes" title="kyaw-codes" /></a>
+  <a href="https://github.com/KyawKyawHein"><img src="https://github.com/KyawKyawHein.png?size=64" width="48" height="48" alt="KyawKyawHein" title="KyawKyawHein" /></a>
+  <a href="https://github.com/KyawMgMgThu"><img src="https://github.com/KyawMgMgThu.png?size=64" width="48" height="48" alt="KyawMgMgThu" title="KyawMgMgThu" /></a>
+  <a href="https://github.com/LinnHtet29"><img src="https://github.com/LinnHtet29.png?size=64" width="48" height="48" alt="LinnHtet29" title="LinnHtet29" /></a>
+  <a href="https://github.com/LinPaing21"><img src="https://github.com/LinPaing21.png?size=64" width="48" height="48" alt="LinPaing21" title="LinPaing21" /></a>
+  <a href="https://github.com/LinThit27"><img src="https://github.com/LinThit27.png?size=64" width="48" height="48" alt="LinThit27" title="LinThit27" /></a>
+  <a href="https://github.com/mhkhizil"><img src="https://github.com/mhkhizil.png?size=64" width="48" height="48" alt="mhkhizil" title="mhkhizil" /></a>
+  <a href="https://github.com/Mi-Mi-Soe"><img src="https://github.com/Mi-Mi-Soe.png?size=64" width="48" height="48" alt="Mi-Mi-Soe" title="Mi-Mi-Soe" /></a>
+</p>
+
+<p>
+  <a href="https://github.com/minthantkyaw28"><img src="https://github.com/minthantkyaw28.png?size=64" width="48" height="48" alt="minthantkyaw28" title="minthantkyaw28" /></a>
+  <a href="https://github.com/Minthiketun"><img src="https://github.com/Minthiketun.png?size=64" width="48" height="48" alt="Minthiketun" title="Minthiketun" /></a>
+  <a href="https://github.com/Mozart-liv"><img src="https://github.com/Mozart-liv.png?size=64" width="48" height="48" alt="Mozart-liv" title="Mozart-liv" /></a>
+  <a href="https://github.com/myaphoo17"><img src="https://github.com/myaphoo17.png?size=64" width="48" height="48" alt="myaphoo17" title="myaphoo17" /></a>
+  <a href="https://github.com/MyatKhineL"><img src="https://github.com/MyatKhineL.png?size=64" width="48" height="48" alt="MyatKhineL" title="MyatKhineL" /></a>
+  <a href="https://github.com/myatphonekhant-developer"><img src="https://github.com/myatphonekhant-developer.png?size=64" width="48" height="48" alt="myatphonekhant-developer" title="myatphonekhant-developer" /></a>
+  <a href="https://github.com/myatthitlwin8"><img src="https://github.com/myatthitlwin8.png?size=64" width="48" height="48" alt="myatthitlwin8" title="myatthitlwin8" /></a>
+  <a href="https://github.com/n3k00"><img src="https://github.com/n3k00.png?size=64" width="48" height="48" alt="n3k00" title="n3k00" /></a>
+  <a href="https://github.com/NayChiMinThein"><img src="https://github.com/NayChiMinThein.png?size=64" width="48" height="48" alt="NayChiMinThein" title="NayChiMinThein" /></a>
+  <a href="https://github.com/OatSoeKhant-Coding"><img src="https://github.com/OatSoeKhant-Coding.png?size=64" width="48" height="48" alt="OatSoeKhant-Coding" title="OatSoeKhant-Coding" /></a>
+</p>
+
+<p>
+  <a href="https://github.com/ookyawsoe-dev"><img src="https://github.com/ookyawsoe-dev.png?size=64" width="48" height="48" alt="ookyawsoe-dev" title="ookyawsoe-dev" /></a>
+  <a href="https://github.com/PaingSKhant"><img src="https://github.com/PaingSKhant.png?size=64" width="48" height="48" alt="PaingSKhant" title="PaingSKhant" /></a>
+  <a href="https://github.com/peterlianpi"><img src="https://github.com/peterlianpi.png?size=64" width="48" height="48" alt="peterlianpi" title="peterlianpi" /></a>
+  <a href="https://github.com/PhoneMinMyat"><img src="https://github.com/PhoneMinMyat.png?size=64" width="48" height="48" alt="PhoneMinMyat" title="PhoneMinMyat" /></a>
+  <a href="https://github.com/phonewinttun-dev"><img src="https://github.com/phonewinttun-dev.png?size=64" width="48" height="48" alt="phonewinttun-dev" title="phonewinttun-dev" /></a>
+  <a href="https://github.com/phyoko72"><img src="https://github.com/phyoko72.png?size=64" width="48" height="48" alt="phyoko72" title="phyoko72" /></a>
+  <a href="https://github.com/Phyowunnakyaw"><img src="https://github.com/Phyowunnakyaw.png?size=64" width="48" height="48" alt="Phyowunnakyaw" title="Phyowunnakyaw" /></a>
+  <a href="https://github.com/PhyoZayHtike"><img src="https://github.com/PhyoZayHtike.png?size=64" width="48" height="48" alt="PhyoZayHtike" title="PhyoZayHtike" /></a>
+  <a href="https://github.com/Rasunon-Soare"><img src="https://github.com/Rasunon-Soare.png?size=64" width="48" height="48" alt="Rasunon-Soare" title="Rasunon-Soare" /></a>
+  <a href="https://github.com/SaiWunnaTun-KP"><img src="https://github.com/SaiWunnaTun-KP.png?size=64" width="48" height="48" alt="SaiWunnaTun-KP" title="SaiWunnaTun-KP" /></a>
+</p>
+
+<p>
+  <a href="https://github.com/SaiZayarHtet7"><img src="https://github.com/SaiZayarHtet7.png?size=64" width="48" height="48" alt="SaiZayarHtet7" title="SaiZayarHtet7" /></a>
+  <a href="https://github.com/San-Linn-Phyo"><img src="https://github.com/San-Linn-Phyo.png?size=64" width="48" height="48" alt="San-Linn-Phyo" title="San-Linn-Phyo" /></a>
+  <a href="https://github.com/scm-htethtetkhine"><img src="https://github.com/scm-htethtetkhine.png?size=64" width="48" height="48" alt="scm-htethtetkhine" title="scm-htethtetkhine" /></a>
+  <a href="https://github.com/shinewwaihtun"><img src="https://github.com/shinewwaihtun.png?size=64" width="48" height="48" alt="shinewwaihtun" title="shinewwaihtun" /></a>
+  <a href="https://github.com/THaSoe"><img src="https://github.com/THaSoe.png?size=64" width="48" height="48" alt="THaSoe" title="THaSoe" /></a>
+  <a href="https://github.com/ThihaThantSin777"><img src="https://github.com/ThihaThantSin777.png?size=64" width="48" height="48" alt="ThihaThantSin777" title="ThihaThantSin777" /></a>
+  <a href="https://github.com/ThomasNine"><img src="https://github.com/ThomasNine.png?size=64" width="48" height="48" alt="ThomasNine" title="ThomasNine" /></a>
+  <a href="https://github.com/thukhachanthar"><img src="https://github.com/thukhachanthar.png?size=64" width="48" height="48" alt="thukhachanthar" title="thukhachanthar" /></a>
+  <a href="https://github.com/thukyaw11"><img src="https://github.com/thukyaw11.png?size=64" width="48" height="48" alt="thukyaw11" title="thukyaw11" /></a>
+  <a href="https://github.com/thutashein"><img src="https://github.com/thutashein.png?size=64" width="48" height="48" alt="thutashein" title="thutashein" /></a>
+</p>
+
+<p>
+  <a href="https://github.com/wunnaaung-dev"><img src="https://github.com/wunnaaung-dev.png?size=64" width="48" height="48" alt="wunnaaung-dev" title="wunnaaung-dev" /></a>
+  <a href="https://github.com/wyMinLwin"><img src="https://github.com/wyMinLwin.png?size=64" width="48" height="48" alt="wyMinLwin" title="wyMinLwin" /></a>
+  <a href="https://github.com/yellhtetaung"><img src="https://github.com/yellhtetaung.png?size=64" width="48" height="48" alt="yellhtetaung" title="yellhtetaung" /></a>
+  <a href="https://github.com/YeYint3424"><img src="https://github.com/YeYint3424.png?size=64" width="48" height="48" alt="YeYint3424" title="YeYint3424" /></a>
+  <a href="https://github.com/yeyintaung-coding"><img src="https://github.com/yeyintaung-coding.png?size=64" width="48" height="48" alt="yeyintaung-coding" title="yeyintaung-coding" /></a>
+  <a href="https://github.com/YeYintAung94"><img src="https://github.com/YeYintAung94.png?size=64" width="48" height="48" alt="YeYintAung94" title="YeYintAung94" /></a>
+  <a href="https://github.com/yoonren6324"><img src="https://github.com/yoonren6324.png?size=64" width="48" height="48" alt="yoonren6324" title="yoonren6324" /></a>
+  <a href="https://github.com/Zinmoeag"><img src="https://github.com/Zinmoeag.png?size=64" width="48" height="48" alt="Zinmoeag" title="Zinmoeag" /></a>
+</p>
 
 ## Project overview
 
