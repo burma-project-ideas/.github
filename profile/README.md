@@ -22,7 +22,7 @@ Thanks to the developers contributing to Burma Project Ideas:
 - [@phyuphyuthin-coding](https://github.com/phyuphyuthin-coding)
 - [@naykhantkyaw-coding](https://github.com/naykhantkyaw-coding)
 - [@OatSoeK](https://github.com/OatSoeK)
-- [@thirilinn-dev](https://github.com/thirilinn-dev) — testing for Myanmar Namelogy
+- [@thirilinn-dev](https://github.com/thirilinn-dev)
 
 ## Project overview
 
