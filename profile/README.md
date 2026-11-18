@@ -10,6 +10,19 @@ Burma Project Ideas is a collection of practical project ideas, datasets, workfl
 
 The projects cover Myanmar language and culture, reference catalogs, calendars, games, and everyday application workflows. Many include JSON data, images, or flow diagrams; some also include working web applications and links to community implementations. You can learn from the existing implementation or build your own version with a different language or framework.
 
+## Contributors
+
+Thanks to the developers contributing to Burma Project Ideas:
+
+- [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding)
+- [@theinhtetaung-dev](https://github.com/theinhtetaung-dev)
+- [@myatphonethant-dev](https://github.com/myatphonethant-dev)
+- [@zinlynhtet](https://github.com/zinlynhtet)
+- [@mgchit-coding](https://github.com/mgchit-coding)
+- [@phyuphyuthin-coding](https://github.com/phyuphyuthin-coding)
+- [@naykhantkyaw-coding](https://github.com/naykhantkyaw-coding)
+- [@OatSoeK](https://github.com/OatSoeK)
+
 ## Project overview
 
 Each repository explains its own scope, data, workflow, and setup. App and demo links below come from the existing project references; repository links are the starting point for source code and documentation.
