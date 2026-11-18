@@ -22,6 +22,7 @@ Thanks to the developers contributing to Burma Project Ideas:
 - [@phyuphyuthin-coding](https://github.com/phyuphyuthin-coding)
 - [@naykhantkyaw-coding](https://github.com/naykhantkyaw-coding)
 - [@OatSoeK](https://github.com/OatSoeK)
+- [@thirilinn-dev](https://github.com/thirilinn-dev) — testing for Myanmar Namelogy
 
 ## Project overview
 
@@ -89,7 +90,7 @@ Git contribution credits and original content authorship are distinct. The refer
 | [Burglish](https://github.com/burma-project-ideas/burglish) | Git contributors: [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding), [@theinhtetaung-dev](https://github.com/theinhtetaung-dev); Source: [Burglish.com / Soe Min .NET](https://burglish.my-mm.org/latest/trunk/web/testarea.htm) (original conversion engine; [source notice](https://github.com/burma-project-ideas/burglish/blob/master/THIRD-PARTY-NOTICES.md)) |
 | [Adhihtan](https://github.com/burma-project-ideas/adhihtan) | [Yan Naing Htin Kyaw](https://th.linkedin.com/in/yan-naing-htin-kyaw-5b6570256) (original Android app); [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) (Blazor recreation inspired by its flow) |
 | [Nat Myat Si (နတ်မျက်စိ)](https://github.com/burma-project-ideas/nat-myat-si) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) (app); original question/answer author not identified |
-| [Myanmar Namelogy](https://github.com/burma-project-ideas/myanmar-namelogy) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding); additional contributors listed in the [project README](https://github.com/burma-project-ideas/myanmar-namelogy#readme); original numerology source not identified |
+| [Myanmar Namelogy](https://github.com/burma-project-ideas/myanmar-namelogy) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding); [@thirilinn-dev](https://github.com/thirilinn-dev) (testing); additional contributors listed in the [project README](https://github.com/burma-project-ideas/myanmar-namelogy#readme); original numerology source not identified |
 | [Burma Love Calculator](https://github.com/burma-project-ideas/burma-love-calculator) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) |
 | [Word List](https://github.com/burma-project-ideas/word-list) | [Kanaung Wordlists](https://github.com/kanaung/wordlists) (wordlist data), [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) (app) |
 | [Myanmar Astro Horo](https://github.com/burma-project-ideas/myanmar-astro-horo) | [@sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) (Blazor port); [fossmyanmar/myanmar_astro_horo](https://github.com/fossmyanmar/myanmar_astro_horo) (VB6 calculation and city-data reference) |
